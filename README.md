@@ -2,7 +2,7 @@
 
 Extended device info flutter plugin.
 
-##Usage:
+## Usage:
 
 ```dart
 void main(){
