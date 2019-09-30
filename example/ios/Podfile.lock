@@ -1,0 +1,22 @@
+PODS:
+  - device_ext_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - device_ext_info (from `.symlinks/plugins/device_ext_info/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  device_ext_info:
+    :path: ".symlinks/plugins/device_ext_info/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  device_ext_info: dc8da148d23297de7b3a7963f5547f6c53bafd5d
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.8.1
