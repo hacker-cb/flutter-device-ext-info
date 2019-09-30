@@ -3,7 +3,7 @@
 Extended device info flutter plugin
 
 
-##Usage:
+## Usage:
 
 ```dart
 import 'package:flutter/material.dart';
