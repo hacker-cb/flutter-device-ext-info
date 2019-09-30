@@ -1,6 +1,6 @@
 name: device_ext_info
 description: Device extended info fultter plugin
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Hacker-CB/flutter-device-ext-info
 author: Pavel Sokolov <pavel@sokolov.me>
 
